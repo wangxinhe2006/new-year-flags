@@ -1,0 +1,33 @@
+{
+  "name": "new-year-flags",
+  "version": "0.0.1",
+  "description": "新年Flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:wangxinhe2006/new-year-flags",
+  "keywords": [
+    "new-year",
+    "flags"
+  ],
+  "author": "汪心禾",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangxinhe2006/new-year-flags/issues"
+  },
+  "homepage": "https://github.com/wangxinhe2006/new-year-flags",
+  "devDependencies": {
+    "eslint": "^5.16.0 || ^6.1.0",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "latest"
+  },
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "express": "^4.17.1",
+    "jquery": "3.4.1",
+    "popper.js": "1.16.0",
+    "vue": "^2.6.11"
+  }
+}
